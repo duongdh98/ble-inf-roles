@@ -1,0 +1,22 @@
+Output/Release/Obj/ble_app_blinky_pca10056e_s112/system_nrf52811.o: \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/system_nrf52811.c \
+ /usr/share/segger_embedded_studio_for_arm_5.66/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_5.66/include/stdbool.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/nrf.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/nrf52811.h \
+ ../../../nrf5xx/components/toolchain/cmsis/include/core_cm4.h \
+ ../../../nrf5xx/components/toolchain/cmsis/include/cmsis_version.h \
+ ../../../nrf5xx/components/toolchain/cmsis/include/cmsis_compiler.h \
+ ../../../nrf5xx/components/toolchain/cmsis/include/cmsis_gcc.h \
+ ../../../nrf5xx/components/toolchain/cmsis/include/mpu_armv7.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/system_nrf52811.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/nrf52811_bitfields.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/nrf51_to_nrf52810.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/nrf52_to_nrf52810.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/nrf52810_to_nrf52811.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/compiler_abstraction.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/nrf_erratas.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/nrf51_erratas.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/nrf52_erratas.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/nrf53_erratas.h \
+ /home/duongdh/Desktop/Core-Ble/My_Project/ble_app/nrf5xx/modules/nrfx/mdk/nrf91_erratas.h
